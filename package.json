@@ -1,0 +1,19 @@
+{
+  "name": "basic-api-for-beginners",
+  "version": "1.0.0",
+  "main": "javascript/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node javascript/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
